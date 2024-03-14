@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello! 
+
+My name is Yordan, and I'm a spanish programming student. I've studied latin and greek, but my love for code
+is bigger! 
 
 <!--
 **YJaeger03/YJaeger03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
