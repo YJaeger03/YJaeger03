@@ -9,7 +9,7 @@ Me llamo **Yordan**. Soy un estudiante de desarrollo de aplicaciones web en Alme
 \
 **Nombre completo:** Yordan Chertoyanov Homs.\
 \
-**Biografía:** Como bien has podido pensar por mi extraño nombre, nací en España pero con padre extranjero (Bulgaria). A decir verdad, nunca me he decantado por la lógica de los ordenadores y mucho menos había pensado estudiar algo parecido. De hecho, estudié latín y griego en el instituto y comencé una **carrera de Historia**.\
+**Biografía:** A decir verdad, nunca me he decantado por la lógica de los ordenadores y mucho menos había pensado estudiar algo parecido. De hecho, estudié latín y griego en el instituto y comencé una **carrera de Historia**.\
 \
 Sin embargo, siempre tuve una extraña afinidad con la informática, discordante con mi formación en las letras. Esto llevó a decantarme por un mundo lógico en el que cual nunca me había pensado desarrollar.\
 \
@@ -20,8 +20,6 @@ Sin embargo, siempre tuve una extraña afinidad con la informática, discordante
 ### Contacto 📫​
 
 >**Gmail** : *yordanhoms@gmail.com*\
->**Twitter** : @YJaeger2
-
 ---
 
 ### Proyectos 📊
